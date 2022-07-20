@@ -4,14 +4,14 @@ My name is Anastasis Tsolakos:
 
 
 
-
+```python
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+#coding: utf-8
 
 class Me:
   """A class to represent a person."""
     
-  def __init__(self):
+  def __init___(self):
     self.name = "Anastasios Tsolakos Agkistriotis"
     self.nickname = "Anastasis"
     self.role = "Student"
@@ -28,3 +28,4 @@ class Me:
 
 anastasis = Me()
 anastasis.say_hi()
+```
