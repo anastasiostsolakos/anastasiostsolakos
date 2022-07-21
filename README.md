@@ -30,8 +30,6 @@ anastasis = Me()
 anastasis.say_hi()
 ```
 
-
-
 <br>
 
 ## 🛠️ My favorite tools
