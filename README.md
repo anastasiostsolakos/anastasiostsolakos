@@ -50,9 +50,12 @@ anastasis.say_hi()
 ### 🧰 Frameworks, libraries and DB
 
 <p>
-    <a href="https://nodejs.org/en/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="https://www.elastic.co/"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-5ea4fd.svg?logo=Elasticsearch&logoColor=yellow"></a>
+    <a href="https://www.elastic.co/kibana><img alt="Kibana" src="https://img.shields.io/badge/Kibana-ff47e0.svg?logo=Kibana&logoColor=teal"></a>
+    <a href="https://www.elastic.co/guide/en/elasticsearch/reference/current/esql.html"><img alt="ESQL" src="https://img.shields.io/badge/ES%7CQL-47c4ff.svg?logo=Elasticsearch&logoColor=pink"></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+    <a href="https://nodejs.org/en/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
     <a href="https://www.microsoft.com/en-us/sql-server/"><img alt="MSQLS" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft-sql-server&logoColor=black"></a>
 
 ### 💻 Software and tools
