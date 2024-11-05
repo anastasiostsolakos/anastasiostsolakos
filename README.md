@@ -51,7 +51,7 @@ anastasis.say_hi()
 ### 🧰 Frameworks, libraries and DB
 
 <p>
-    <a href="https://gamemaker.io/en"><img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-ffffff.svg?logo=GameMaker&logoColor=black></a>
+    <a href="https://gamemaker.io/en"><img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-ffffff.svg?logo=GameMaker&logoColor=black"></a>
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="https://www.elastic.co/"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-5ea4fd.svg?logo=Elasticsearch&logoColor=yellow"></a>
     <a href="https://www.elastic.co/kibana"><img alt="Kibana" src="https://img.shields.io/badge/Kibana-ff47e0.svg?logo=Kibana&logoColor=teal"></a>
