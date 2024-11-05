@@ -36,6 +36,7 @@ anastasis.say_hi()
 ### 👨‍💻 Programming languages
 
 <p>
+    <a href="https://manual.gamemaker.io/monthly/en/GameMaker_Language.htm"><img alt="GML" src="https://img.shields.io/badge/GameMaker%20Language-30ba2c.svg?logo=GameMaker&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Aanastasiostsolakos+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
     <a href="https://github.com/search?q=user%3Aanastasiostsolakos+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-orange.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aanastasiostsolakos+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
@@ -50,6 +51,7 @@ anastasis.say_hi()
 ### 🧰 Frameworks, libraries and DB
 
 <p>
+    <a href="https://gamemaker.io/en"><img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-ffffff.svg?logo=GameMaker&logoColor=black></a>
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="https://www.elastic.co/"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-5ea4fd.svg?logo=Elasticsearch&logoColor=yellow"></a>
     <a href="https://www.elastic.co/kibana"><img alt="Kibana" src="https://img.shields.io/badge/Kibana-ff47e0.svg?logo=Kibana&logoColor=teal"></a>
